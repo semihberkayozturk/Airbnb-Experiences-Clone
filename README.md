@@ -1,2 +1,2 @@
 # Airbnb-Mobile-Clone
-A React clone of Airbnb mobile website. 
+A clone of Airbnb mobile website using React.
