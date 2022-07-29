@@ -1,5 +1,6 @@
 # Airbnb Experiences Clone
 A clone of Airbnb Experiences using React.
+![Ekran Resmi 2022-07-29 13 20 31](https://user-images.githubusercontent.com/90466553/181739087-80f71c66-eba9-453c-ad5c-f887f4d371e5.png)
 
 # Getting Started with Create React App
 
